@@ -1,7 +1,7 @@
 # RealTimeObjectDetection
 Real time object detection from webcam using SSD mobileNet
 
-Object Detection using SSD Mobilenet and Tensorflow Object Detection API 
+Object detection is done using SSD mobilenet and Tensorflow on the real time webcam feed.
 
 ![image](https://user-images.githubusercontent.com/73147643/168732403-25c05a1a-2a18-4227-9e9e-5d70ed4a54df.png)
 From Here:
